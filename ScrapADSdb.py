@@ -1,5 +1,5 @@
 # coding=utf-8
-
+# 此为从IAEA官网进行下载ACE格式数据库的自动化网络爬虫。
 import urllib.request
 import re
 import os
